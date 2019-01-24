@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="375fe97a-f6ec-4abc-9e9e-c71fff8610df" name="Default Changelist" comment="" />
+    <list default="true" id="375fe97a-f6ec-4abc-9e9e-c71fff8610df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Touch.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Touch.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,41 +18,70 @@
     <session id="-234602847">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="425" />
+          <entry key="cs" value="512" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="425" />
+          <entry key="C#" value="512" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Touch.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="33" column="46" lean-forward="true" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+            <state relative-caret-position="-109">
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
               <folding>
-                <marker date="1548068389047" expanded="false" signature="6:78" ph="..." />
-                <marker date="1548068389047" expanded="true" signature="114:1398" ph="{...}" />
-                <marker date="1548068389047" expanded="true" signature="258:1396" ph="{...}" />
-                <marker date="1548068389047" expanded="true" signature="322:384" ph="{...}" />
-                <marker date="1548068389047" expanded="true" signature="509:989" ph="{...}" />
-                <marker date="1548068389047" expanded="true" signature="655:966" ph="{...}" />
-                <marker date="1548068389047" expanded="true" signature="869:952" ph="{...}" />
-                <marker date="1548068389047" expanded="true" signature="1047:1251" ph="{...}" />
-                <marker date="1548068389047" expanded="true" signature="1349:1390" ph="{...}" />
+                <marker date="1548322299794" expanded="false" signature="6:78" ph="..." />
+                <marker date="1548322299794" expanded="true" signature="114:1517" ph="{...}" />
+                <marker date="1548322299794" expanded="true" signature="258:1515" ph="{...}" />
+                <marker date="1548322299794" expanded="true" signature="322:384" ph="{...}" />
+                <marker date="1548322299794" expanded="true" signature="509:989" ph="{...}" />
+                <marker date="1548322299794" expanded="true" signature="655:966" ph="{...}" />
+                <marker date="1548322299794" expanded="true" signature="869:952" ph="{...}" />
+                <marker date="1548322299794" expanded="true" signature="1047:1251" ph="{...}" />
+                <marker date="1548322299794" expanded="true" signature="1349:1390" ph="{...}" />
+                <marker date="1548322299794" expanded="true" signature="1408:1509" ph="/* Accelerator Movement ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/CameraControl.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="37" column="91" selection-start-line="37" selection-start-column="91" selection-end-line="37" selection-end-column="91" />
+              <folding>
+                <marker date="1548322543764" expanded="false" signature="6:78" ph="..." />
+                <marker date="1548322543764" expanded="true" signature="122:2252" ph="{...}" />
+                <marker date="1548322543764" expanded="true" signature="377:2250" ph="{...}" />
+                <marker date="1548322543764" expanded="true" signature="471:2244" ph="{...}" />
+                <marker date="1548322543764" expanded="true" signature="1367:1788" ph="{...}" />
+                <marker date="1548322543764" expanded="true" signature="1805:2234" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -54,13 +89,23 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pos</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/CameraControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Touch.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Touch.cs" />
+        <option value="$PROJECT_DIR$/Assets/CameraControl.cs" />
       </list>
     </option>
   </component>
@@ -70,7 +115,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -81,7 +126,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -94,9 +141,7 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,11 +189,13 @@
       <updated>1548063961587</updated>
       <workItem from="1548063965291" duration="131000" />
       <workItem from="1548064197814" duration="4660000" />
+      <workItem from="1548321228126" duration="258000" />
+      <workItem from="1548321565856" duration="1063000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4791000" />
+    <option name="totallyTimeSpent" value="6112000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -160,12 +207,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1552" height="840" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25938338" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Build" sideWeight="0.49932885" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -180,7 +227,8 @@
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50067115" side_tool="true" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5013405" side_tool="true" visible="true" weight="0.32768363" />
+      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.49865952" visible="true" weight="0.32768363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -210,18 +258,34 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Touch.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="33" column="46" lean-forward="true" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+        <state relative-caret-position="-109">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
           <folding>
-            <marker date="1548068389047" expanded="false" signature="6:78" ph="..." />
-            <marker date="1548068389047" expanded="true" signature="114:1398" ph="{...}" />
-            <marker date="1548068389047" expanded="true" signature="258:1396" ph="{...}" />
-            <marker date="1548068389047" expanded="true" signature="322:384" ph="{...}" />
-            <marker date="1548068389047" expanded="true" signature="509:989" ph="{...}" />
-            <marker date="1548068389047" expanded="true" signature="655:966" ph="{...}" />
-            <marker date="1548068389047" expanded="true" signature="869:952" ph="{...}" />
-            <marker date="1548068389047" expanded="true" signature="1047:1251" ph="{...}" />
-            <marker date="1548068389047" expanded="true" signature="1349:1390" ph="{...}" />
+            <marker date="1548322299794" expanded="false" signature="6:78" ph="..." />
+            <marker date="1548322299794" expanded="true" signature="114:1517" ph="{...}" />
+            <marker date="1548322299794" expanded="true" signature="258:1515" ph="{...}" />
+            <marker date="1548322299794" expanded="true" signature="322:384" ph="{...}" />
+            <marker date="1548322299794" expanded="true" signature="509:989" ph="{...}" />
+            <marker date="1548322299794" expanded="true" signature="655:966" ph="{...}" />
+            <marker date="1548322299794" expanded="true" signature="869:952" ph="{...}" />
+            <marker date="1548322299794" expanded="true" signature="1047:1251" ph="{...}" />
+            <marker date="1548322299794" expanded="true" signature="1349:1390" ph="{...}" />
+            <marker date="1548322299794" expanded="true" signature="1408:1509" ph="/* Accelerator Movement ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CameraControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="37" column="91" selection-start-line="37" selection-start-column="91" selection-end-line="37" selection-end-column="91" />
+          <folding>
+            <marker date="1548322543764" expanded="false" signature="6:78" ph="..." />
+            <marker date="1548322543764" expanded="true" signature="122:2252" ph="{...}" />
+            <marker date="1548322543764" expanded="true" signature="377:2250" ph="{...}" />
+            <marker date="1548322543764" expanded="true" signature="471:2244" ph="{...}" />
+            <marker date="1548322543764" expanded="true" signature="1367:1788" ph="{...}" />
+            <marker date="1548322543764" expanded="true" signature="1805:2234" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -18,7 +18,7 @@ public class Touch : MonoBehaviour
         }
  
         var touch = Input.touches[0];
-        Vector3 pos = touch.position;
+        Vector2 pos = touch.position;
  
         if(touch.phase == TouchPhase.Began) {
             RaycastHit hit;
@@ -44,5 +44,8 @@ public class Touch : MonoBehaviour
         if (dragging && (touch.phase == TouchPhase.Ended || touch.phase == TouchPhase.Canceled)) {
             dragging = false;
         }
+        
+        //Accelerator Movement
+        //transform.Translate(Input.acceleration.x, 0, -Input.acceleration.z);
     }
 }
